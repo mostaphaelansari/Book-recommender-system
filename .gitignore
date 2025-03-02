@@ -169,3 +169,20 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Data
+data/raw/
+data/processed/
+data/interim/
+
+# Models
+models/
+
+# Environment
+venv/
+.env
+
+# IDE
+.idea/
+.ipynb_checkpoints/
