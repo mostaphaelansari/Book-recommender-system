@@ -68,3 +68,7 @@ book-recommendation-system/
 ├── setup.py                   # Package installation
 └── README.md                  # Project overview & setup guide
 ```
+
+The datasets are:
+- [Goodreads Books](https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks)
+- [7k Books with Metadata](https://www.kaggle.com/datasets/dylanjcastillo/7k-books-with-metadata)
